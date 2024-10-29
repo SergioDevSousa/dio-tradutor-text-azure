@@ -1,8 +1,8 @@
-# Projeto de Tradução de Textos com API da Microsoft :D
+# Projeto de Tradução de Textos com API da Microsoft
 
 Este projeto é uma aplicação em Python que realiza a tradução de textos em inglês para um idioma alvo especificado, utilizando a API **Microsoft Translator**. A aplicação permite que desenvolvedores integrem traduções automáticas em seus próprios projetos, facilitando a criação de soluções multilíngues.
 
-## Funcionalidades :-)
+## Funcionalidades
 
 - **Tradução Automática**: Traduz textos em inglês para o idioma alvo especificado.
 - **API da Microsoft Translator**: Integração com o Microsoft Translator usando a API do Azure.
